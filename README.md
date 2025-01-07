@@ -11,3 +11,9 @@
 - я (двур говнокодер)
 - лолкана (сеньор по всем языкам)
 - отец рокси (норм чел потому что бросил семью рокси)
+
+```java
+private final List<String> govnoedList = new ArrayList<>();
+
+govnoedList.add("рокси");
+```
